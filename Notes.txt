@@ -1,0 +1,4 @@
+Used references:
+	https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html for contours
+	https://github.com/hanneshoettinger/opencv-steel-darts for finding the ellipses
+	https://docs.roboflow.com/ for images annotation
